@@ -48,3 +48,15 @@
 ---
 
 ## Пример выполнения
+
+Допустим мы ввели такие данные:
+
+<img width="358" height="387" alt="image" src="https://github.com/user-attachments/assets/cc348cb7-c937-4ca4-9535-bc2ecaf0c71d" />
+
+Нажимая на кнопку "Рассчитать", мы видим вывод результата:
+
+<img width="361" height="21" alt="image" src="https://github.com/user-attachments/assets/2cbf16e0-50f2-4a1b-b011-bb47eaca94c7" />
+
+Нажимая на кнопку "Визуализировать", открывается график, на котором видно, в каком момент появляется выгода
+
+<img width="797" height="572" alt="image" src="https://github.com/user-attachments/assets/4ed17b07-c8f9-4ad6-a047-c4e75d629c18" />
