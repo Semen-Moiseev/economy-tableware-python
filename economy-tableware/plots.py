@@ -14,7 +14,7 @@ def show_cost_comparison(numberOfPlates, pricePerPlate, priceColdWater, priceHot
 		volumeOfDetergent = float(volumeOfDetergent)
 		priceOfBottleOfDetergent = float(priceOfBottleOfDetergent)
 
-		disposable_cost_per_plate = disposableTableware(numberOfPlates, setPrice)
+		disposable_cost_per_plate = disposableTableware(numberOfPlates, pricePerPlate)
 		washing_cost_per_plate = washingDishes(
 			priceColdWater,
 			priceHotWater,
